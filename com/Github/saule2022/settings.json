@@ -1,0 +1,8 @@
+{
+  "input_filepath": "C:\\DATA\\Hyarchis_DS_Academy\\01\\test_input.txt",
+  "output_filepath": "C:\\DATA\\Hyarchis_DS_Academy\\01\\test_output.txt",
+  "case_sensitive": true,
+  "ignore_non_alphanumeric": true,
+  "sort_by": "count",
+  "order": "desc"
+}
